@@ -25,7 +25,13 @@ Welcome to the Food Corner repository, your one-stop destination for all things 
 3. Added salad page in our repository to order your desired item.
 
 
+## TIMELINE
 
+#### Project Preview: Released by team leader Mudit Goel on May 5, 2024.
+
+| Sr No. | File Name     | Features                                      | Merged and pull request at | Deadline for commits | Done by      |
+|--------|---------------|-----------------------------------------------|----------------------------|----------------------|--------------|
+| 1.     | Index.html    | Basic Layout of our home webpage| 6 May 2024 12:46 AM       | 9 May 2024 12:19 AM   | Mudit Goel  |
 
 
 
