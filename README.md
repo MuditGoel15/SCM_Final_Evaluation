@@ -22,6 +22,7 @@ Welcome to the Food Corner repository, your one-stop destination for all things 
 ## Project Progress:
 1. Initially we created our home page of our food corner website which shows the list of food items the customers can order according to their desire.
 2. Added Style content to give the better UI Experience to the users and modify our website.
+3. Added salad page in our repository to order your desired item.
 
 
 
