@@ -32,8 +32,8 @@ Welcome to the Food Corner repository, your one-stop destination for all things 
 | Sr No. | File Name     | Features                                      | Merged and pull request at | Deadline for commits | Done by      |
 |--------|---------------|-----------------------------------------------|----------------------------|----------------------|--------------|
 | 1.     | Index.html    | Basic Layout of our home webpage| 6 May 2024 12:46 AM       | 9 May 2024 12:00 AM   | Mudit Goel  |
-| 2.     | Style.css    | Styling to home page| 6 May 2024 12:46 AM       | 10 May 2024 12:00 AM   |   |
-| 3.     | Salad.html    | Salad page added |       | 15 May 2024 03:00 AM   | Mudit Goel  |
+| 2.     | Style.css    | Styling to home page| 6 May 2024 12:46 AM       | 10 May 2024 12:00 AM   | Muskan Rani  |
+| 3.     | Salad.html    | Salad page added |       | 15 May 2024 03:00 AM   |   |
 | 4.     | Script.js    | Javascript code added to enhance |        | 15 May 2024 03:00 AM   |   |
 | 5.     | Pizza.html    | Pizza page added|        | 15 May 2024 03:00 AM   |   |
 | 6.     | Burger.html    | Burger page added|        | 15 May 2024 03:00 AM   |   |
