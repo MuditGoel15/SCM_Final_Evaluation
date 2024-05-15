@@ -46,6 +46,7 @@ Welcome to the Food Corner repository, your one-stop destination for all things 
 | 7.     | Pasta.html    | Pasta page added| 15 May 2024 09:27 AM       | 15 May 2024 12:00 PM   | Muskan Rani  |
 | 8.     | Sweets.html    | Sweets page added| 15 May 2024 09:36 AM       | 15 May 2024 12:00 PM   | Mukund  |
 | 9.     | Pastry.html    | Pastry page added| 15 May 2024 09:36 AM       | 15 May 2024 12:00 PM   | Mukund  |
-
-
-
+| 10.     | Script1.html    | Javascript code added to  the cart page| 15 May 2024 09:36 AM       | 16 May 2024 03:00 AM   | Mudit Goel  |
+| 11.     | Cart.html    | Cart page added| 15 May 2024 08:27 AM       | 16 May 2024 03:00 AM   | Mukund  |
+| 12.     | Login.html    | Login page added| 16 May 2024 12:44 AM       | 16 May 2024 03:00 AM   | Muskan Rani  |
+| 13.     | Style1.css    | Style sheet added to the login page| 16 May 2024 01:15 AM       | 16 May 2024 03:00 AM   | Mudit Goel  |
