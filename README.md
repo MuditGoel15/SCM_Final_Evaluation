@@ -1,8 +1,8 @@
 ## Team-Food Corner
 
-<div style="text-align:center; border: 1px solid black; padding: 6px;">
-    <img src="C:\Users\mudit\Desktop\Screenshot 2024-05-16 000052.png" alt="picture" width="700"/>
-</div>
+## GLIMPS:
+
+![glimps!](Screenshot16-05-2024.png)
 
 Welcome to the Food Corner repository, your one-stop destination for all things delicious! Our repository is the digital hub where we curate and manage the codebase for our online food ordering platform. At Food Corner, we are committed to revolutionizing the way people order and enjoy their favorite meals from the comfort of their homes or on the go.
 
